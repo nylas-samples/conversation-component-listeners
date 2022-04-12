@@ -15,7 +15,7 @@ export class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <nylas-conversation id="cf7002dd-7c74-4c6e-9f73-e9753c938d62" />
+        <nylas-conversation id="759a1f79-0467-4fd1-8f02-9384bd2ff31f" />
       </div>
     );
   }
